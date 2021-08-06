@@ -1,0 +1,25 @@
+
+title {
+    border:2px solid black;
+}
+
+body {
+    background-color:orange; 
+    text-align:center;
+}
+
+h1 {
+    color:red;
+}
+
+h2 {
+    color:blue;
+    font-family: verdana;
+    font-size: 300%;
+}
+
+p {
+    color:black;
+    font-family: verdana;
+    font-size: 200%;
+}
